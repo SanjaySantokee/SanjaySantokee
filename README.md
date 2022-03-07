@@ -1,3 +1,35 @@
+_Social buttons_
+
+[![SanjaySantokee -  summit-frontend](https://img.shields.io/static/v1?label=SanjaySantokee&message=+summit-frontend&color=blue&logo=github)](https://github.com/SanjaySantokee/ summit-frontend "Go to GitHub repo")
+[![stars -  summit-frontend](https://img.shields.io/github/stars/SanjaySantokee/ summit-frontend?style=social)](https://github.com/SanjaySantokee/ summit-frontend)
+[![forks -  summit-frontend](https://img.shields.io/github/forks/SanjaySantokee/ summit-frontend?style=social)](https://github.com/SanjaySantokee/ summit-frontend)
+
+_Repo metadata_
+
+
+[![GitHub tag](https://img.shields.io/github/tag/SanjaySantokee/ summit-frontend?include_prereleases=&sort=semver&color=blue)](https://github.com/SanjaySantokee/ summit-frontend/releases/)
+
+
+
+_Call-to-Action buttons_
+
+<div align="center">
+
+
+
+
+
+</div>
+
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+</div>
+
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
